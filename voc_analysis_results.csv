@@ -1,0 +1,41 @@
+feedback_id,customer_feedback,Sentiment,Keywords,Cluster
+1,The delivery was very late and the support team did not respond.,Negative,delivery support team,1
+2,I love the product! It works perfectly and the packaging was great.,Positive,product packaging,0
+3,The app keeps crashing every time I open it. Very frustrating.,Negative,app time,0
+4,Customer service was polite and helpful.,Neutral,customer service,0
+5,Not satisfied with the billing process. Too complicated.,Negative,billing process,0
+6,Fast delivery and excellent quality!,Positive,delivery quality,0
+7,Received a defective item. Had to return it.,Neutral,item,2
+8,Website is confusing and hard to navigate.,Negative,website,0
+9,Great experience overall. Will recommend to others.,Positive,experience other,0
+10,Prices are too high compared to other brands.,Positive,price brand,0
+11,Product quality is poor compared to my previous purchase.,Negative,product quality purchase,0
+12,Customer care quickly resolved my issue. Very happy!,Positive,customer care issue,1
+13,Shipping was delayed for two weeks. Unacceptable service.,Neutral,shipping week service,0
+14,The new update made the app much faster and easier to use.,Positive,update app,0
+15,The packaging was damaged but the product was fine.,Positive,packaging product,0
+16,Support team was rude and unhelpful.,Negative,support team,1
+17,Ordering process was smooth and simple.,Positive,ordering process,0
+18,Refund took too long to process.,Negative,Refund,0
+19,Love the new design of the product. Looks premium!,Positive,design product premium,0
+20,The website frequently crashes during checkout.,Positive,website checkout,0
+21,Received wrong item. Need better quality control.,Neutral,item quality control,2
+22,App interface is user-friendly and intuitive.,Neutral,App interface user,0
+23,Customer support agent went above and beyond to help.,Neutral,customer support agent,1
+24,The pricing is fair and the discounts are attractive.,Positive,pricing discount,0
+25,Still waiting for a response from the support team.,Neutral,response support team,1
+26,Product didn’t match the description.,Neutral,product description,0
+27,Delivery person was polite and professional.,Positive,delivery person,0
+28,Had issues logging into my account after update.,Neutral,issue account update,1
+29,Absolutely love the performance and battery life.,Positive,performance battery life,0
+30,The return policy is confusing and unclear.,Negative,return policy,0
+31,Product arrived earlier than expected. Great service!,Positive,product service,0
+32,Too many ads in the mobile app. Very annoying.,Negative,ad app,0
+33,Very disappointed with the durability of the product.,Negative,durability product,0
+34,Excellent product quality and fast replacement process.,Positive,product quality replacement process,0
+35,Website layout is clean and easy to browse.,Positive,website layout,0
+36,Delivery charges are too high for small items.,Negative,delivery charge item,2
+37,Had to contact support multiple times for the same issue.,Neutral,support time issue,1
+38,My issue was resolved quickly through chat support.,Positive,issue chat support,1
+39,Product works well but setup instructions were unclear.,Neutral,product setup instruction,0
+40,Not happy with the color difference from what was shown online.,Negative,color difference,0
